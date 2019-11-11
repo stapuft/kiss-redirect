@@ -1,17 +1,2 @@
 # kiss-redirect
-redirect the .to to .ru from disqus links because the idiots that run the site refuse to do it for us. this is a userscript 
-
-
-//==UserScript==
-// @name Redirect kissanime
-// @description Redirect .to to .ru, because the idiots that run the disqus refuse to change the website url.
-// @include http://*.kissanime.to/*
-// @include https://kissanime.to/*
-// @run-at document-start
-//==/UserScript==
-
-
-(function () {
-	'use strict';
-	top.location.hostname = "kissanime.ru";
-})();
+redirect the .to to .ru from disqus links because the idiots that run the site refuse to do it for us. this is a userscript, to install it you need to use a userscript manager like tampermonkey or greasemonkey.
