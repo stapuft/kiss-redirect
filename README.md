@@ -3,3 +3,4 @@ redirect the .to to .ru from disqus links because the idiots that run the site r
 
 
 check out my other userscript, if you would like to gain keyboard shortcuts, and automatic fullscreen video playback, for kissanime, and various other sites.
+https://github.com/stapuft/anime-couch-mode-activator
